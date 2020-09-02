@@ -1,8 +1,4 @@
 # AssociateAndroidDeveloperPracticeProject-master
- 
-<img width="324" alt="Screen Shot 2563-09-02 at 09 20 58" src="https://user-images.githubusercontent.com/46526191/91924725-a8237b00-ecfd-11ea-960c0b4ffbd3c69a.png">
-<img width="318" alt="Screen Shot 2563-09-02 at 09 06 53" src="https://user-images.githubusercontent.com/46526191/91924627-6db9de00-ecfd-11ea-9812d34d5c8cc92e.png">
-<img width="313" alt="Screen Shot 2563-09-02 at 09 07 04" src="https://user-images.githubusercontent.com/46526191/91924621-698dc080-ecfd-11ea-8497c49b8c4fc91f.png">
-<img width="316" alt="Screen Shot 2563-09-02 at 09 09 05" src="https://user-images.githubusercontent.com/46526191/91924616-6692d000-ecfd-11ea-99ec5136fbfe2e10.png">
-<img width="323" alt="Screen Shot 2563-09-02 at 09 09 15" src="https://user-images.githubusercontent.com/46526191/91924615-64c90c80-ecfd-11ea-93f6c31a2b73ea97.png">
-<img width="317" alt="Screen Shot 2563-09-02 at 09 09 27" src="https://user-images.githubusercontent.com/46526191/91924605-5f6bc200-ecfd-11ea-89a761573de7ec8c.png">
+<img width="324" alt="Screen Shot 2563-09-02 at 09 20 58" src="https://user-images.githubusercontent.com/46526191/91925149-a1e1ce80-ecfe-11ea-802c-926c87d74328.png">
+<img width="318" alt="Screen Shot 2563-09-02 at 09 06 53" src="https://user-images.githubusercontent.com/46526191/91925161-a60dec00-ecfe-11ea-8cf9-acdb1adc6ecd.png">
+<img width="313" alt="Screen Shot 2563-09-02 at 09 07 04" src="https://user-images.githubusercontent.com/46526191/91925166-a8704600-ecfe-11ea-9cd0-018481bb532b.png"><img width="316" alt="Screen Shot 2563-09-02 at 09 09 05" src="https://user-images.githubusercontent.com/46526191/91925179-ac9c6380-ecfe-11ea-9bbd-91b9e1b0a8ab.png"><img width="323" alt="Screen Shot 2563-09-02 at 09 09 15" src="https://user-images.githubusercontent.com/46526191/91925184-af975400-ecfe-11ea-973d-373374585828.png"<img width="317" alt="Screen Shot 2563-09-02 at 09 09 27" src="https://user-images.githubusercontent.com/46526191/91925191-b3c37180-ecfe-11ea-8a9f-11f48f7b9eac.png">
